@@ -1,4 +1,8 @@
-### Stefanie ### Multi Device  [ ❑ 𝗩𝗜𝗣 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 ❑ ]  Unlimited Version (24 hors Activation ) <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" alt="nz" width="350"/> </p> > [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial) ---- Setup bot in sinhala lanuage...👇 https://github.com/whiteshadowofficial/Stefanie-Setup <b><h1>Scan Qr Code.</b></h1> <a href="https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png"> <br> #### TOTAL REPO VIEWS📍 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+### Stefanie 
+### Multi Device  [ ❑ 𝗩𝗜𝗣 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 ❑ ]  Unlimited Version (24 hors Activation ) <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" alt="nz" width="350"/> </p> > [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial) --
+
+-- Setup bot in sinhala lanuage...👇 https://github.com/whiteshadowofficial/Stefanie-Setup <b><h1>Scan Qr Code.</b></h1> <a href="https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png"> <br> 
+#### TOTAL REPO VIEWS📍 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
 # Setup For Deployment 👇
 
