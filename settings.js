@@ -21,36 +21,36 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.owner = ['94779529221'] //ur owner number
+global.ownernomer = "94779529221" //ur owner number2
+global.ownername = "@Stefanie Whatsapp bot" //ur owner name
+global.ytname = "Yt: WSMODZ OFC" //ur yt chanel name
+global.socialm = "GitHub: White Shadow" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botname = "Stefanie Bot Md V3.6"
+global.ownernumber = '94779529221'
+global.ownername = 'Mr.White Shadow'
+global.ownerNumber = ["94779529221@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@WSMODSOFC"
+global.websitex = "hhttps://youtube.com/@WSMODSOFC"
+global.wagc = "https://chat.whatsapp.com/BNd0LOopWWN8vryB9QZbOk"
+global.themeemoji = '🧨'
+global.wm = "Stefanie Bot Inc."
+global.botscript = 'https://github.com/whiteshadowofficial/STEFANIE-V3.6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "Mr.WhiteShadow\n\n+94779529221"
+global.creator = "94779529221@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./MyGallery/theme/Stefanie.png") //ur thumb pic
+global.log0 = fs.readFileSync("./MyGallery/theme/Stefanie.png") //ur logo pic
+global.err4r = fs.readFileSync("./MyGallery/theme/Stefanie.png") //ur error pic
+global.thumb = fs.readFileSync("./MyGallery/theme/Stefanie.png") //ur thumb pic
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
 
 //menu image maker

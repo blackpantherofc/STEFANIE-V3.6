@@ -1,6 +1,6 @@
 {
-  "name": "Cheems-Bot-MD",
-  "version": "8.0.0",
+  "name": "Stefanie-Bot-MD",
+  "version": "3.6",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "commonjs",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DGXeon",
+  "author": "Mr.White Shadow",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
@@ -94,10 +94,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD8.git"
+    "url": "git+https://github.com/whiteshadowofficial/STEFANIE-V3.6.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD8/issues"
+    "url": "https://github.com/whiteshadowofficial/STEFANIE-V3.6/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD8/#readme"
+  "homepage": "https://github.com/whiteshadowofficial/STEFANIE-V3.6/#readme"
 }

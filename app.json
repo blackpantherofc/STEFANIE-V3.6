@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "StefanieBotMd",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD8",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/whiteshadowofficial/STEFANIE-V3.6/tree/master",
+  "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
