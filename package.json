@@ -2,10 +2,10 @@
   "name": "Stefanie-Bot-MD",
   "version": "3.6",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
-  "main": "settings.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node settings.js"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
