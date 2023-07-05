@@ -6,10 +6,10 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD8/fork)
+- FORK THE REPOSITORY [Here](https://github.com/whiteshadowofficial/STEFANIE-V3.6/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)]([https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1](https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js))
 
 ## ` BUILDPACKS`
 
@@ -29,8 +29,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD8.git
-cd CheemsBot-MD8
+git clone https://github.com/whiteshadowofficial/STEFANIE-V3.6.git
+cd STEFANIE-V3.6
 
 npm start
 ```
@@ -46,8 +46,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD8
-cd CheemsBot-MD8
+git clone https://github.com/whiteshadowofficial/STEFANIE-V3.6
+cd STEFANIE-V3.6
 npm start
 ```
 ## `For VPS`
@@ -58,8 +58,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD8
-cd CheemsBot-MD8
+git clone https://github.com/whiteshadowofficial/STEFANIE-V3.6
+cd STEFANIE-V3.6
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
